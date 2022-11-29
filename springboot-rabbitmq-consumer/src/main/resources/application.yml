@@ -1,0 +1,8 @@
+#??RabbitMQ?????
+spring:
+  rabbitmq:
+    host: 43.142.250.57
+    port: 5672
+    username: liyyao
+    password: admin
+    virtual-host: liyyao
