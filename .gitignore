@@ -1,3 +1,9 @@
 # Project exclude paths
 /rabbitmq-consumer/target/
 /rabbitmq-producer/target/
+.idea
+/.idea
+/.idea/
+/out/
+target/
+/.gitignore
